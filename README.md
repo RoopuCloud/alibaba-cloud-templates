@@ -1,4 +1,4 @@
-# Come On Cloud - The leader in Alibaba Cloud Certification Training
+# Roopu Cloud - The leader in Alibaba Cloud Certification Training & Consulting
 
 In this repository you will find terraform templates for creating resources in the Alibaba Cloud platform.
 
