@@ -28,4 +28,4 @@ The resources are divided into `modules`, which cover the following topics:
   * RAM role
 
 ## Contact
-You can contact us at [info@comeon.cloud](mailto:info@comeon.cloud)
+You can contact us at [info@roopu.cloud](mailto:info@roopu.cloud)
