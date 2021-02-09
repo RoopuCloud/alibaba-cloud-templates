@@ -3,10 +3,10 @@ variable "region" {
   default = "eu-central-1"
 }
 variable "access_key" {
-  default = "youraccesskey"
+  default = "youraccesskey" #your access key
 }
 variable "access_secret" {
-  default = "youraccesssecret"
+  default = "youraccesssecret" #your secret key
 }
 
 #compute

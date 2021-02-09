@@ -1,4 +1,4 @@
-# Roopu Cloud - The leader in Alibaba Cloud Certification Training & Consulting
+# Alibaba Cloud Terraform templates
 
 In this repository you will find terraform templates for creating resources in the Alibaba Cloud platform.
 
@@ -28,4 +28,4 @@ The resources are divided into `modules`, which cover the following topics:
   * RAM role
 
 ## Contact
-You can contact us at [info@roopu.cloud](mailto:info@roopu.cloud)
+You can contact us [here](https://roopu.cloud/contact).
